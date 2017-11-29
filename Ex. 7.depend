@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511361553 source:g:\comp. prog\labs\ex. 7\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	<cstdio>
+	<windows.h>
+
